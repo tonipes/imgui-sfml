@@ -83,5 +83,5 @@ set(IMGUI_SFML_DEPENDENCIES
 
 if(IMGUI_SFML_BUILD_EXAMPLES)
   # Build examples
-  add_subdirectory(examples)
+  # add_subdirectory(examples)
 endif(IMGUI_SFML_BUILD_EXAMPLES)
